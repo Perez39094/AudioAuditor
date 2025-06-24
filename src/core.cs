@@ -1,2 +1,3 @@
 A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // guard against empty input
+// handle the edge case from the last release
